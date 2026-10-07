@@ -396,7 +396,7 @@ export default {
 // }
 
 .lower-lineup-two .poster-row-text {
-  color: #d9ea55;
+  color: #AAC531;
 }
 
 .poster-row-placeholder {

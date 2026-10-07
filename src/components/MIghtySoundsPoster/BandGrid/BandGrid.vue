@@ -452,7 +452,6 @@ defineExpose({
 
 .lower-lineup-two {
   height: 48%; //6
-  border: 1px solid green;
   width: 85%;
 }
 

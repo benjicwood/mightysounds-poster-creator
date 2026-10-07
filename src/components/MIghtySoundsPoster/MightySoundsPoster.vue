@@ -336,7 +336,7 @@ onBeforeUnmount(() => {
   display: flex;
   justify-content: center;
   gap: 0.75rem;
-  background: #c41917;
+  background: #AAC531;
   padding: 0.75rem 1.25rem;
   border-radius: 12px 12px 0 0;
   backdrop-filter: blur(6px);
@@ -360,7 +360,7 @@ onBeforeUnmount(() => {
   // left: 50%;
   // transform: translateX(-50%);
   z-index: 101;
-  background: #c41917;
+  background: #AAC531;
   color: white;
   border-radius: 9999px;
   padding: 0.4rem 0.6rem;
@@ -385,7 +385,7 @@ onBeforeUnmount(() => {
 .download-btn,
 .share-btn,
 .copy-btn {
-  background: #c41917;
+  background: #AAC531;
   border: 3px solid white;
   border-radius: 0;
   color: white;
@@ -505,7 +505,7 @@ onBeforeUnmount(() => {
     }
 
     &.active {
-      background: #c41917; // highlight active year
+      background: #AAC531; // highlight active year
       color: white;
       filter: none;
       &:hover {

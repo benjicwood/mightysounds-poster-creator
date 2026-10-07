@@ -589,7 +589,7 @@ export default {
 
 .add-band-btn {
   border: none;
-  background: #C41917;
+  background: #AAC531;
   color: white;
   padding: 0.7rem 0.9rem;
   border-radius: 8px;
@@ -731,7 +731,7 @@ export default {
     font-size: 0.82rem;
 
     &.active {
-      background: #C41917;
+      background: #AAC531;
       color: white;
     }
   }
@@ -772,7 +772,7 @@ select {
 
 .done-btn {
   border: none;
-  background: #C41917;
+  background: #AAC531;
   color: white;
   padding: 0.56rem 0.8rem;
   border-radius: 8px;
